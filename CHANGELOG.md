@@ -1,4 +1,4 @@
-## [TBD] - TBD
+## [TBD] - TBD 
 * Add swift static lib target to common core to support AES GCM.
 
 ## [1.1.8] - 2020-08-24
